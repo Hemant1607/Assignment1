@@ -1,0 +1,22 @@
+Passenger Details:
+Name:Hemant
+Age:23
+Gender:Male
+Source:Blr
+Destination:Pat
+Class:First class
+
+Name:Dipro
+Age:22
+Gender:Male
+Source:Blr
+Destination:Kolkata
+Class:Business class
+
+Name:Kavya
+Age:22
+Gender:Female
+Source:Blr
+Destination:Mumbai
+Class:Economy class
+

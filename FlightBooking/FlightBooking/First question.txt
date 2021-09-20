@@ -1,0 +1,23 @@
+Q1. What features of C# will allow SoftSols Inc.to reuse the existing application code?Describe in brief.
+Ans. C# is a fully Object Oriented Programming language.It provides features like abstraction and inheritance which can 
+     be helpful in modifying the existing code.We can declare a class abstract and can modify its implementation without
+     affecting any of the eisting code.
+     Then we also have inheritance in C# which is very similar to abstraction in  this we can have base class which is
+     having some methods and variables and all other classes can be added which can access thses inherent class methods
+     and can perform different functions according to requirement.
+     In C# we can create multiple classes which is an added advantage while writing the code or debugging it or also 
+     while we will try to modify it as it will be easy to identify which class performs which function and which class
+     needed to be modified.
+     C# also had DLL(Data link library) files,it is a library that contains functions and codes that can be used by 
+     one or more than one program at a time.It is easy to use in any program once it is createdwe just have to add reference
+     to it.So while updating the code it is very easy to use existing DLL files.
+
+Q2. Define an interface.Briefly describe the benifits of using interface.
+Ans. Interface in C# is a blueprint of a class.It is like abstract class because all the methods which are declared inside
+     the interface are abstract method.It cannot have method body and cannot be instantiated.
+     It is used to achieve multiple inheritance which can't be achieved by class.It is used to achieve fully abstraction
+     because it cannot have method body.
+     Benefits of using an interface:
+     i. To achieve security-hide certain details and only show the important details of an object(interface).
+     ii. C# does not support "multiple inheritance"(a class can only inherit from one base class).However it can be achieved
+         with interface,because the class can implement multiple interfaces.
